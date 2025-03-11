@@ -47,7 +47,7 @@ A powerful and lightweight mod that helps you **find secrets faster** in **Hypix
 
 This mod is **100% safe**, **client-side only**, and **does not break Hypixel’s rules**.  
 It simply helps players learn and optimize dungeons.  
-> ⚠️ Always use mods at your own discretion and risk.
+
 
 ---
 
